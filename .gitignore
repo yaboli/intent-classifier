@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+venv/
+data_processing/input/
+data_processing/output/
+intent_classification/checkpoints/
+intent_classification/data/
+intent_classification/resources/
+intent_classification/tensorboard/
+text_generation/output/
+text_generation/resources/
